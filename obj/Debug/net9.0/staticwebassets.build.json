@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nJ1t7Abzbdrvrr9f0e0DB8Y8CZEz15/gPSPM+2y1Vvw=",
+  "Source": "ApiAuditoria",
+  "BasePath": "_content/ApiAuditoria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
